@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0084ff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6131B&height=120&section=header"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=30px>, I'm Junior Melo</h1>
 
@@ -48,7 +48,7 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=juniormelo13&bg_color=0d1117&color=fafafa&line=0084ff&point=66e0ff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=juniormelo13&bg_color=0d1117&color=fafafa&line=E6131B&point=FF898C&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
@@ -76,4 +76,4 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=40&center=true&vCenter=true&width=1000&lines=Thank+you+:%29)](https://git.io/typing-svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0084ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6131B&height=120&section=footer"/>
