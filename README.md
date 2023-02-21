@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0084ff&height=120&section=header"/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=30px>, I'm Junior Melo</h1>
-<h3 align="center">A Full Stack Software Developer</h3>
+<h3 align="center">A Full Stack Junior Software Developer</h3>
 
 <br>
 
@@ -10,9 +10,9 @@
 
 - 💼 I’m currently working at Estrela Sistemas Eletrônicos
 
-- ❤️ I love technology and I'm obsessed with news
+- ❤️ I love technology and i'm obsessed with learning news
 
-- ⚡ A curiosity? I love sports and my favorite is Soccer
+- ⚡ A curiosity? I love sports and my favorite is soccer
 
 <br>
 <hr>
@@ -72,6 +72,6 @@
  <hr>
  <br>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=40&center=true&vCenter=true&width=1000&lines=Thank+You+:%29)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=40&center=true&vCenter=true&width=1000&lines=Thank+you+:%29)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0084ff&height=120&section=footer"/>
