@@ -1,8 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0084ff&height=120&section=header"/>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=30px>, I'm Junior Melo</h1>
+
 <h3 align="center">A Full Stack Junior Software Developer</h3>
 
-<br>
+<p align="right"><a href="https://github.com/juniormelo13/juniormelo13/blob/main/README(Portuguese).md"><img src="https://www.tradutordetextos.com.br/content/images/1e8c7ef3e35c420c3ac43fd35a75ce6c.webp" width="100px" title="Tradução para português"></a></p>
 
 - 🌱 I’m 31 years old
 
