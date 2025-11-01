@@ -8,22 +8,25 @@ My goal is to contribute to building efficient and intuitive applications, alway
 
 ##
 
-#### <img src="assets/gifs/ArrowR.gif" height="10"/> Tech Stack
+#### <img src="assets/gifs/ArrowR.gif" height="12"/> Tech Stack
 
 <p>
   <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>&nbsp;&nbsp;
   <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>&nbsp;&nbsp;
   <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;
   <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>&nbsp;&nbsp;
-  <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg#gh-light-mode-only"/>
-  <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.simpleicons.org/github/FFFFFF#gh-dark-mode-only"/>&nbsp;&nbsp;
-  <img  alt="Github Actions" title="Github Actions" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"/>&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+    <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">&nbsp;&nbsp;
+  </picture>
+  <img alt="Github Actions" title="Github Actions" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"/>&nbsp;&nbsp;
   <img alt="Webpack" title="Webpack" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg"/>&nbsp;&nbsp;
   <img alt="npm" title="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg"/>&nbsp;&nbsp;
   <img alt="babel" title="babel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg"/>
 </p>
 
-#### <img src="assets/gifs/ArrowR.gif" height="10"/> Currently Learning
+#### <img src="assets/gifs/ArrowR.gif" height="12"/> Currently Learning
 
 <p>
   <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>&nbsp;&nbsp;
@@ -33,13 +36,13 @@ My goal is to contribute to building efficient and intuitive applications, alway
   <img alt="SQLite" title="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
 </p>
 
-#### <img src="assets/gifs/ArrowR.gif" height="10"/> Featured Projects
+#### <img src="assets/gifs/ArrowR.gif" height="12"/> Featured Projects
 
 <table>
   <tr>
     <td align="left" width="300">
       <a href="https://github.com/juniormelo13/tasks_control" alt="View Project">
-        <img src="assets/images/taskscontrol_demo.png" alt="TasksControl project preview" title="View Project" style="width:100%; height:200px; object-fit:cover;"/>
+        <img src="assets/images/taskscontrol_demo.png" alt="TasksControl project preview" title="View Project" style="width:120%; height:200px; object-fit:cover;"/>
       </a>
       <b>TasksControl</b>
       <br>
@@ -54,7 +57,7 @@ My goal is to contribute to building efficient and intuitive applications, alway
   </tr>
 </table>
 
-#### <img src="assets/gifs/ArrowR.gif" height="10"/> Contact
+#### <img src="assets/gifs/ArrowR.gif" height="12"/> Contact
 
 <p>
   <a href="https://www.linkedin.com/in/juniormelo13/">
