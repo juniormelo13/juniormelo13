@@ -1,79 +1,163 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6131B&height=120&section=header"/>
+<h1>
+  <img src="assets/gifs/angle-brackets.gif" height="60" style="vertical-align: middle;"/>
+  <span style="vertical-align: middle;">Junior Melo</span>
+</h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=30px>, I'm Junior Melo</h1>
+**`Software Developer | Web Developer`**&nbsp;&nbsp;•&nbsp;&nbsp;<img src="assets/icons/FlagBr4x3.svg" height="15" alt="Bandeira do Brasil" title="Bandeira do Brasil" style="vertical-align: middle;"/>
 
-<h3 align="center">A Full Stack Junior Software Developer</h3>
+Based in Salvador, Bahia (Brazil), I currently work at Estrela Sistemas Eletrônicos. Alongside this, I am dedicated to continuous learning, applying knowledge from both my formal education and self-directed study to practical projects.
 
-<p align="right"><a href="https://github.com/juniormelo13/juniormelo13/blob/main/README(Portuguese).md"><img src="https://www.tradutordetextos.com.br/content/images/1e8c7ef3e35c420c3ac43fd35a75ce6c.webp" width="100px" title="Tradução para português"></a></p>
+My goal is to contribute to building efficient and intuitive applications, always focusing on clean code and the best user experience. I am actively seeking my first opportunity in the field to add value and grow alongside a development team.
 
-- 🌱 I’m 31 years old
+## 
 
-- 🌍 I'm from Salvador Bahia Brazil
+#### <img src="assets/gifs/ArrowR.gif" height="20" style="vertical-align: bottom;"/> Tech Stack
 
-- 💼 I’m currently working at Estrela Sistemas Eletrônicos
-
-- ❤️ I love technology and i'm obsessed with learning news
-
-- ⚡ A curiosity? I love sports and my favorite is soccer
-
-<br>
-<hr>
-
-### Main skills:
-
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
-### Tools:
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0099ff&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-
-### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-
-<br>
-
-<div>  
-  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniormelo13&layout=compact&hide_border=false&title_color=fff&text_color=fff&bg_color=0D1117" />
+<div>
+  <img
+      alt="HTML"
+      title="HTML"
+      width="30px"
+      style="margin-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+  />
+  <img
+      alt="CSS"
+      title="CSS"
+      width="30px"
+      style="margin-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  />
+  <img
+      alt="JavaScript"
+      title="JavaScript"
+      width="30px"
+      style="margin-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  />
+  <img
+      alt="Git"
+      title="Git"
+      width="30px"
+      style="margin-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  />
+  <img
+    alt="GitHub"
+    title="GitHub"
+    width="30px"
+    style="margin-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg#gh-light-mode-only"
+  />
+  <img
+    alt="GitHub"
+    title="GitHub"
+    width="30px"
+    style="margin-right: 10px;"
+    src="https://cdn.simpleicons.org/github/FFFFFF#gh-dark-mode-only"
+  />
+  <img
+      alt="Github Actions"
+      title="Github Actions"
+      width="30px"
+      style="margin-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"
+  />
+  <img
+      alt="Webpack"
+      title="Webpack"
+      width="30px"
+      style="margin-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg"
+  />
+  <img
+      alt="npm"
+      title="npm"
+      width="30px"
+      style="margin-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg"
+  />
+  <img
+      alt="babel"
+      title="babel"
+      width="30px"
+      style="margin-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg"
+  />
 </div>
 
+#### <img src="assets/gifs/ArrowR.gif" height="20" style="vertical-align: bottom;"/> Currently Learning
 
-<br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=juniormelo13&bg_color=0d1117&color=fafafa&line=E6131B&point=FF898C&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-
-<div align="center">
-
-  ![Snake animation](https://github.com/juniormelo13/juniormelo13/blob/output/github-contribution-grid-snake.svg)
-
+<div>
+  <img
+      alt="React"
+      title="React"
+      width="30px"
+      style="margin-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+  />
+  <img
+      alt="TypeScript"
+      title="TypeScript"
+      width="30px"
+      style="margin-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+  />
+  <img
+      alt="Tailwind"
+      title="Tailwind"
+      width="30px"
+      style="margin-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+  />
+  <img
+      alt="Node.js"
+      title="Node.js"
+      width="30px"
+      style="margin-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+  />
+  <img
+      alt="SQLite"
+      title="SQLite"
+      width="30px"
+      style="margin-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
+  />
 </div>
 
-<br>
-<hr>
+#### <img src="assets/gifs/ArrowR.gif" height="20" style="vertical-align: bottom;"/> Featured Projects
 
-<div align="center">
-<h3>>> Connect with me <<</h3>
-<br>
-<a href="https://instagram.com/jr_melo91" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "mailto:alvasmj@hotmail.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/juniormelo13/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div>
+    <div align="left" style="display: inline-block; min-width: 33%; border: 2px solid #30363d; border-radius: 5px; padding: 10px">
+      <a href="https://github.com/juniormelo13/tasks_control">
+        <img src="assets/images/taskscontrol_demo.png"
+             alt="TasksControl Project"
+             style="width:100%; height:200px; object-fit:cover; border-radius: 5px;"/>
+      </a>
+      <br>
+      <b>TasksControl</b>
+      <br>
+      <sub>Task manager with scheduling and real-time tracking.</sub>
+      <br>
+      <br>
+      <img src="assets/icons/ArrowDownRight.svg" height="30" style="vertical-align: top;"/><a href="https://github.com/juniormelo13/tasks_control" style="vertical-align: middle">See more</a>
+      <br>
+      <br>
+      <sub>HTML, CSS, JavaScript</sub>
+    </div>
 </div>
 
+#### <img src="assets/gifs/ArrowR.gif" height="20" style="vertical-align: bottom;"/> Contact
 
- <br>
- <hr>
- <br>
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=40&center=true&vCenter=true&width=1000&lines=Thank+you+:%29)](https://git.io/typing-svg)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6131B&height=120&section=footer"/>
+<div>
+  <a href="https://www.linkedin.com/in/juniormelo13/" target="_blank">
+    <img src="https://img.shields.io/badge/-juniormelo13-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NUEyLjA2NCAyLjA2NCAwIDEgMSA1LjMzNyA3LjQzM3ptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAwWiIvPjwvc3ZnPg==" alt="LinkedIn">
+  </a>
+  <a href="mailto:jr.dev.oficial@gmail.com"> 
+    <img src="https://img.shields.io/badge/jr.dev.oficial@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://instagram.com/jr.dev.oficial" target="_blank">
+    <img src="https://img.shields.io/badge/jr.dev.oficial-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
