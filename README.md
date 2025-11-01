@@ -8,7 +8,7 @@ My goal is to contribute to building efficient and intuitive applications, alway
 
 ##
 
-#### <img src="assets/gifs/ArrowR.gif" height="12"/> Tech Stack
+#### <img src="assets/gifs/ArrowR.gif" height="11"/> Tech Stack
 
 <p>
   <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>&nbsp;&nbsp;
@@ -26,7 +26,7 @@ My goal is to contribute to building efficient and intuitive applications, alway
   <img alt="babel" title="babel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg"/>
 </p>
 
-#### <img src="assets/gifs/ArrowR.gif" height="12"/> Currently Learning
+#### <img src="assets/gifs/ArrowR.gif" height="11"/> Currently Learning
 
 <p>
   <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>&nbsp;&nbsp;
@@ -36,7 +36,7 @@ My goal is to contribute to building efficient and intuitive applications, alway
   <img alt="SQLite" title="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
 </p>
 
-#### <img src="assets/gifs/ArrowR.gif" height="12"/> Featured Projects
+#### <img src="assets/gifs/ArrowR.gif" height="11"/> Featured Projects
 
 <table>
   <tr>
@@ -57,7 +57,7 @@ My goal is to contribute to building efficient and intuitive applications, alway
   </tr>
 </table>
 
-#### <img src="assets/gifs/ArrowR.gif" height="12"/> Contact
+#### <img src="assets/gifs/ArrowR.gif" height="11"/> Contact
 
 <p>
   <a href="https://www.linkedin.com/in/juniormelo13/">
