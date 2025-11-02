@@ -1,12 +1,16 @@
 # <img src="assets/gifs/angle-brackets.gif" height="24"/> Junior Melo
 
-**`Software Developer | Web Developer`**&nbsp;&nbsp;•&nbsp;&nbsp;<img src="assets/icons/FlagBr4x3.svg" height="10" alt="Brazil Flag" title="Brazil Flag"/>
+**`Software Developer | Web Developer`**
 
 Based in Salvador, Bahia (Brazil), I currently work at Estrela Sistemas Eletrônicos. Alongside this, I am dedicated to continuous learning, applying knowledge from both my formal education and self-directed study to practical projects.
 
 My goal is to contribute to building efficient and intuitive applications, always focusing on clean code and the best user experience. I am actively seeking my first opportunity in the field to add value and grow alongside a development team.
 
-##
+<p align="right">
+  <sub><img src="assets/icons/FlagBr4x3.svg" height="8" alt="Brazil Flag" title="Brazil Flag"/>&nbsp;<a href="README-pt.md">Ler em Português</a></sub>
+</p>
+
+---
 
 #### <img src="assets/gifs/ArrowR.gif" height="11"/> Tech Stack
 
@@ -18,9 +22,9 @@ My goal is to contribute to building efficient and intuitive applications, alway
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-    <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">&nbsp;&nbsp;
+    <img alt="GitHub Logo" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">&nbsp;&nbsp;
   </picture>
-  <img alt="Github Actions logo" title="Github Actions" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"/>&nbsp;&nbsp;
+  <img alt="GitHub Actions logo" title="GitHub Actions" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"/>&nbsp;&nbsp;
   <img alt="Webpack logo" title="Webpack" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg"/>&nbsp;&nbsp;
   <img alt="npm logo" title="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg"/>&nbsp;&nbsp;
   <img alt="babel logo" title="Babel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg"/>
