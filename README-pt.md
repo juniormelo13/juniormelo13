@@ -2,9 +2,9 @@
 
 **`Analista e Desenvolvedor de Software | Desenvolvedor Web`**
 
-Sou de Salvador-BA e atualmente trabalho na Estrela Sistemas Eletrônicos. Em paralelo, me dedico ao aprendizado contínuo, aplicando os conhecimentos da minha formação acadêmica e do estudo autodidata em projetos práticos.
+Eu sou fissurado por tecnologia e criatividade. Me dedico fortemente ao aprendizado contínuo, aplicando os conhecimentos da minha formação acadêmica e do estudo autodidata em projetos práticos.
 
-Meu objetivo é contribuir para a construção de aplicações eficientes e intuitivas, sempre focado em código limpo e na melhor experiência do usuário. Estou ativamente buscando minha primeira oportunidade na área, para agregar valor e crescer junto a uma equipe de desenvolvimento.
+Meu objetivo é contribuir para a construção de aplicações eficientes e intuitivas, sempre focado em código limpo e na melhor experiência do usuário. Meu lema é sempre agregar valor, buscando ativamente conhecimento e evolução.
 
 <p align="right">
   <sub><img src="assets/icons/FlagUm4x3.svg" height="8" alt="Bandeira dos EUA/Reino Unido" title="Bandeira dos EUA/Reino Unido"/>&nbsp;<a href="README.md">Read in English</a></sub>

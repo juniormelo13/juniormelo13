@@ -2,9 +2,9 @@
 
 **`Software Developer | Web Developer`**
 
-Based in Salvador, Bahia (Brazil), I currently work at Estrela Sistemas Eletrônicos. Alongside this, I am dedicated to continuous learning, applying knowledge from both my formal education and self-directed study to practical projects.
+I'm deeply passionate about technology and creativity. I am strongly committed to continuous learning, applying knowledge from both my formal education and self-study to hands-on projects.
 
-My goal is to contribute to building efficient and intuitive applications, always focusing on clean code and the best user experience. I am actively seeking my first opportunity in the field to add value and grow alongside a development team.
+My goal is to contribute to building efficient and intuitive applications, always focusing on clean code and the best user experience. My motto is to always add value, actively pursuing knowledge and growth.
 
 <p align="right">
   <sub><img src="assets/icons/FlagBr4x3.svg" height="8" alt="Brazil Flag" title="Brazil Flag"/>&nbsp;<a href="README-pt.md">Ler em Português</a></sub>
