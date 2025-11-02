@@ -1,4 +1,4 @@
-# <img src="assets/gifs/angle-brackets.gif" height="22"/> Junior Melo
+# <img src="assets/gifs/angle-brackets.gif" height="21"/> Junior Melo
 
 **`Software Developer | Web Developer`**
 
