@@ -53,7 +53,7 @@ My goal is to contribute to building efficient and intuitive applications, alway
       <sub>Task manager with scheduling and real-time tracking.</sub>
       <br>
       <br>
-      <img src="assets/icons/ArrowRightBold.svg" height="10"/>&nbsp;<a href="https://github.com/juniormelo13/tasks_control" alt="View Project">View Project</a>
+      <img src="assets/icons/ArrowRightBold.svg" height="9"/>&nbsp;<a href="https://github.com/juniormelo13/tasks_control" alt="View Project">View Project</a>
       <br>
       <br>
       <sub>HTML, CSS, JavaScript</sub>
