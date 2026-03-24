@@ -18,6 +18,9 @@ Meu objetivo é contribuir para a construção de aplicações eficientes e intu
   <img alt="Logo HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>&nbsp;&nbsp;
   <img alt="Logo CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>&nbsp;&nbsp;
   <img alt="Logo JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;
+  <img alt="Logo React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>&nbsp;&nbsp;
+  <img alt="Logo Tailwind" title="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>&nbsp;&nbsp;
+  <img alt="Logo Figma" title="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>&nbsp;&nbsp;
   <img alt="Logo Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>&nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
@@ -33,11 +36,9 @@ Meu objetivo é contribuir para a construção de aplicações eficientes e intu
 #### <img src="assets/gifs/ArrowR.gif" height="11"/> Aprendendo Atualmente
 
 <p>
-  <img alt="Logo React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>&nbsp;&nbsp;
-  <img alt="Logo TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>&nbsp;&nbsp;
-  <img alt="Logo Tailwind" title="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>&nbsp;&nbsp;
-  <img alt="Logo Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>&nbsp;&nbsp;
-  <img alt="Logo SQLite" title="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
+  <img alt="Logo C#" title="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>&nbsp;&nbsp;
+  <img alt="Logo SQL" title="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>&nbsp;&nbsp;
+  <img alt="Logo TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 </p>
 
 #### <img src="assets/gifs/ArrowR.gif" height="11"/> Projetos em Destaque
